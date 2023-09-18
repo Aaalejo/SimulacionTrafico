@@ -4,9 +4,9 @@
 Este componente representa un objeto "car" en la interfaz de usuario. 
 Puede ser utilizado para mostrar información sobre un automóvil u otros objetos relacionados con vehículos.
 
-@param {object} props - Las propiedades del componente.
-@param {React.Ref} ref - Una referencia opcional para el elemento DOM asociado al componente.
-@returns {React.Element} El componente Car.
+{object} props - Las propiedades del componente.
+{React.Ref} ref - Una referencia opcional para el elemento DOM asociado al componente.
+{React.Element} El componente Car.
 
   Estilos del componente Car
 Estos estilos definen la apariencia y el diseño del componente "Car". El componente
@@ -18,9 +18,9 @@ El componente Highway es una envoltura que contiene elementos o componentes rela
 con carreteras. Se utiliza para estructurar y estilizar la interfaz de usuario de elementos
 relacionados con carreteras, como gráficos de mapas o información de tráfico.
 
-@param {object} props - Las propiedades del componente.
-@param {string} axis - La dirección del highway (eje) que puede ser "vertical" o "horizontal".
-@returns {React.Element} El componente Highway.
+{object} props - Las propiedades del componente.
+{string} axis - La dirección del highway (eje) que puede ser "vertical" o "horizontal".
+{React.Element} El componente Highway.
 
   Estilos del componente Highway
 Los estilos definidos aquí son para el componente Highway y sus variantes basadas en el eje
@@ -32,9 +32,9 @@ El componente TrafficLight representa un semáforo en la interfaz de usuario que
 luces rojas, amarillas y verdes que cambian con el tiempo. Este componente controla el
 cambio automático de luces y se puede utilizar para simular un semáforo interactivo.
 
-@param {string} light - El estado actual del semáforo ("red", "yellow" o "green").
-@param {function} setLight - Una función para cambiar el estado del semáforo.
-@returns {React.Element} El componente TrafficLight.
+{string} light - El estado actual del semáforo ("red", "yellow" o "green").
+{function} setLight - Una función para cambiar el estado del semáforo.
+{React.Element} El componente TrafficLight.
 
   Estilos del componente TrafficLight
 Los estilos definidos aquí son para el componente TrafficLight y sus elementos relacionados.
