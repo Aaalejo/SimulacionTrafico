@@ -43,3 +43,6 @@ Estos estilos controlan la apariencia y el diseño de un semáforo con luces roj
   Componente App
 El componente App es la aplicación principal que controla el semáforo de dos ejes(horizontal y vertical) 
 y un automóvil en una carretera simulada.
+
+![image](https://github.com/Aaalejo/SimulacionTrafico/assets/101015036/979c251e-51c6-4557-bea0-c9bf12f9360e)
+
