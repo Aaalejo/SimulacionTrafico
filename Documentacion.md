@@ -1,5 +1,9 @@
 # SimulacionTrafico
 
+Alejandro Leon
+Jesus Ceballos
+Jhorver Chirinos
+
   Componente Car
 Este componente representa un objeto "car" en la interfaz de usuario. 
 Puede ser utilizado para mostrar información sobre un automóvil u otros objetos relacionados con vehículos.
